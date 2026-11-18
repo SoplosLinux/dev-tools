@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Soplos Dev Tools
+Label: Soplos Dev Tools
+Suite: stable
+Codename: stable
+Version: 1.0
+Date: Wed, 18 Nov 2026 21:26:39 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 95f36ab9127626b144935a2b4e67e5cd 114 main/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 0467d412f41eaf7d5e13f14b16e378cfa908db5e 114 main/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ ce70de87a73811690e7b014ad4cde84bde92988960812efb36bca9ed017f45c0 114 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEcr7Rbb0rkoNNC7FkaFltYrT36EIFAmr+GA8ACgkQaFltYrT3
+6EI6JQ/+PEYcwjENWHwRlD9SOxhIyvXoAC+MgciBklXH5g9ErCaGXOMn+DpzyVzo
+FBp+ANmlKDwc4mzQW1iqnVFFbAZpttifKWcCeg+5Z40tihDyic9bBStqxlzU8bQ5
+AXuM5elA9u/1G/OpOAzkHwEUpIpCXG0Hp1Xq4m1tdGIfh7G9fX/TZ7NI8QErTSKg
+jxflxnC6P3Q/XeYf9EuBcJCCTWF4Rwkl+SkVXKuEHsuW9IXFp79bINchdBdP3SE7
+J/CeZZsDp+sXLxsHn4U1kWoy94hP7e/M8iS1Fnj7KONKiyjJwZLcW4Ha3cEefl3p
+4AM3oSUtqcVJfjlhFRqfZO+TU54uwd3Sy71OCM7KP5CQx3dlqZG6FU+pY1EM8SsE
+JPPvV6gFIArNBDzEQa0hj7fq4OiVL2xsKbdNuNpPh6fYogiCdY4fR3rPM2Qe44G9
+dAvAfelqXXchRCN6Obt0iich4JCdFRdEsmrWYGJdcYG1DJMFR4Ltb4FJYwjmwHXV
+11W0bn0mbSDRVbTIPZRtWNKUAgr/4FiwMnYOUDFgNKuiLXT7zg8nIvktVXaLioy6
+wgcVArVywlQKvT4DHVhSHPh2YaIhzwN0hT1m7VabJS0ld5nS1AC1GAp0bc/bVQnM
+vzr8z4DrdVZDvpt+ZrLeBdF4Am5PdJEqbNUaE/aj9m63dY7Qiao=
+=pdD6
+-----END PGP SIGNATURE-----
